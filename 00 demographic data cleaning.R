@@ -3,10 +3,9 @@
 library(dplyr)
 
 #demo <- read.csv("../demographic data.csv")
-demo <- read.csv("../demographic data 120722.csv")
+demo <- read.csv("../PHI/demographic data 120722.csv")
 
 names(demo) <- tolower(names(demo))
-
 
 demo <- demo %>%
   filter(mannerdeath == 3) %>% # only suicide deaths
@@ -59,4 +58,6 @@ demo$education_def[demo$educationmax == 3] <- "some college"
 demo$education_def[demo$educationmax == 4] <- "college"
 demo$education_def[demo$educationmax == 5] <- "post college"
 demo$education_def[demo$educationmax %in% c(9, "NULL")] <- "unknown"
+
+write.csv(demo, "../PHI/demo.csv")
 
