@@ -1,0 +1,510 @@
+﻿census_2000,occupation,soc_2000,category
+1,Chief Executives,11-1011,1
+2,General and Operations Managers,11-1021,1
+3,Legislators,11-1031,1
+4,Advertising and Promotions Managers,11-2011,1
+5,Marketing and Sales Managers,11-2020,1
+6,Public Relations Managers,11-2031,1
+10,Administrative Services Managers,11-3011,1
+11,Computer and Information Systems Managers,11-3021,1
+12,Financial Managers,11-3031,1
+13,Human Resources Managers,11-3040,1
+14,Industrial Production Managers,11-3051,1
+15,Purchasing Managers,11-3061,1
+16,"Transportation, Storage, and Distribution Managers",11-3071,1
+20,"Farm, Ranch, and Other Agricultural Managers",11-9011,1
+21,Farmers and Ranchers,11-9012,1
+22,Construction Managers,11-9021,1
+23,Education Administrators,11-9030,1
+30,Engineering Managers,11-9041,1
+31,Food Service Managers,11-9051,1
+32,Funeral Directors,11-9061,1
+33,Gaming Managers,11-9071,1
+34,Lodging Managers,11-9081,1
+35,Medical and Health Services Managers,11-9111,1
+36,Natural Sciences Managers,11-9121,1
+40,Postmasters and Mail Superintendents,11-9131,1
+41,"Property, Real Estate, and Community Association Managers",11-9141,1
+42,Social and Community Service Managers,11-9151,1
+43,"Managers, All Other",11-9199,1
+50,"Agents and Business Managers of Artists, Performers, and Athletes",13-1011,1
+51,"Purchasing Agents and Buyers, Farm Products",13-1021,1
+52,"Wholesale and Retail Buyers, Except Farm Products",13-1022,1
+53,"Purchasing Agents, Except Wholesale, Retail, and Farm Products",13-1023,1
+54,"Claims Adjusters, Appraisers, Examiners, and Investigators",13-1030,1
+56,"Compliance Officers, Except Agriculture, Construction, Health and Safety, and Transportation",13-1041,1
+60,Cost Estimators,13-1051,1
+62,"Human Resources, Training, and Labor Relations Specialists",13-1070,2
+70,Logisticians,13-1081,1
+71,Management Analysts,13-1111,1
+72,Meeting and Convention Planners,13-1121,1
+73,Other Business Operations Specialists,13-1199,1
+80,Accountants and Auditors,13-2011,2
+81,Appraisers and Assessors of Real Estate,13-2021,1
+82,Budget Analysts,13-2031,1
+83,Credit Analysts,13-2041,1
+84,Financial Analysts,13-2051,1
+85,Personal Financial Advisors,13-2052,1
+86,Insurance Underwriters,13-2053,1
+90,Financial Examiners,13-2061,1
+91,Loan Counselors and Officers,13-2070,1
+93,"Tax Examiners, Collectors, and Revenue Agents",13-2081,1
+94,Tax Preparers,13-2082,1
+95,"Financial Specialists, All Other",13-2099,1
+100,Computer Scientists and Systems Analysts,15-1011,2
+100,Computer Scientists and Systems Analysts,15-1051,2
+100,Computer Scientists and Systems Analysts,15-1099,2
+100,Computer Scientists and Systems Analysts,15-1021,2
+101,Computer Programmers,,2
+102,Computer Software Engineers,15-1030,2
+104,Computer Support Specialists,15-1041,2
+106,Database Administrators,15-1061,2
+110,Network and Computer Systems Administrators,15-1071,2
+111,Network Systems and Data Communications Analysts,15-1081,2
+120,Actuaries,15-2011,2
+122,Operations Research Analysts,15-2031,2
+124,124 - Miscellaneous Mathematical Science Occupations,15-2090,2
+121,121 - Mathematicians,15-2021,2
+123,123 - Statisticians,15-2041,2
+130,"Architects, Except Naval",17-1010,2
+131,"Surveyors, Cartographers, and Photogrammetrists",17-1020,2
+132,Aerospace Engineers,17-2011,2
+135,Chemical Engineers,17-2041,2
+136,Civil Engineers,17-2051,2
+140,Computer Hardware Engineers,17-2061,2
+141,Electrical and Electronics Engineers,17-2070,2
+142,Environmental Engineers,17-2081,2
+143,"Industrial Engineers, Including Health and Safety",17-2110,2
+144,Marine Engineers and Naval Architects,17-2121,2
+145,Materials Engineers,17-2131,2
+146,Mechanical Engineers,17-2141,2
+151,Nuclear Engineers,17-2161,2
+152,152 - Petroleum Engineers,17-2171,2
+150,"150 - Mining and Geological Engineers, Including Mining Safety Engineers",17-2151,2
+153,"153 - Engineers, All Other",17-2199,2
+134,134 - Biomedical Engineers,17-2031,2
+133,133 - Agricultural Engineers,17-2021,2
+154,Drafters,17-3010,3
+155,"Engineering Technicians, Except Drafters",17-3020,3
+156,Surveying and Mapping Technicians,17-3031,3
+160,Agricultural and Food Scientists,19-1010,2
+161,Biological Scientists,19-1020,2
+164,Conservation Scientists and Foresters,19-1030,2
+165,Medical Scientists,19-1040,2
+170,Astronomers and Physicists,19-2010,2
+171,Atmospheric and Space Scientists,19-2021,2
+172,Chemists and Materials Scientists,19-2030,2
+174,Environmental Scientists and Geoscientists,19-2040,2
+176,"Physical Scientists, All Other",19-2099,2
+180,Economists,19-3011,2
+181,Market and Survey Researchers,19-3020,2
+182,Psychologists,19-3030,2
+184,Urban and Regional Planners,19-3051,2
+186,186 - Miscellaneous Social Scientists and Related Workers,19-3090,2
+183,183 - Sociologists,19-3041,2
+190,Agricultural and Food Science Technicians,19-4011,3
+191,Biological Technicians,19-4021,3
+192,Chemical Technicians,19-4031,3
+193,Geological and Petroleum Technicians,19-4041,3
+196,"196 - Other Life, Physical, and Social Science Technicians",19-4061,3
+194,194 - Nuclear Technicians,19-4051,3
+200,Counselors,21-1010,2
+201,Social Workers,21-1020,2
+202,Miscellaneous Community and Social Service Specialists,21-1090,2
+204,Clergy,21-2011,2
+205,"Directors, Religious Activities and Education",21-2021,2
+206,"Religious Workers, All Other",21-2099,2
+210,Lawyers,23-1011,2
+211,"Judges, Magistrates, and Other Judicial Workers",23-1020,2
+214,Paralegals and Legal Assistants,23-2011,6
+215,Miscellaneous Legal Support Workers,23-2090,6
+220,Postsecondary Teachers,25-1000,2
+230,Preschool and Kindergarten Teachers,25-2010,2
+231,Elementary and Middle School Teachers,25-2020,2
+232,Secondary School Teachers,25-2030,2
+233,Special Education Teachers,25-2040,2
+234,Other Teachers and Instructors,25-3000,2
+240,"Archivists, Curators, and Museum Technicians",25-4010,2
+243,Librarians,25-4021,2
+244,Library Technicians,25-4031,6
+254,Teacher Assistants,25-9041,6
+255,"Other Education, Training, and Library Workers",25-9031,2
+260,Artists and Related Workers,27-1010,2
+263,Designers,27-1020,2
+270,Actors,27-2011,2
+271,Producers and Directors,27-2012,2
+272,"Athletes, Coaches, Umpires, and Related Workers",27-2020,2
+274,Dancers and Choreographers,27-2030,2
+275,"Musicians, Singers, and Related Workers",27-2040,2
+276,"Entertainers and Performers, Sports and Related Workers, All Other",27-2099,2
+280,Announcers,27-3010,2
+281,"News Analysts, Reporters and Correspondents",27-3020,2
+282,Public Relations Specialists,27-3031,2
+283,Editors,27-3041,2
+284,Technical Writers,27-3042,2
+285,Writers and Authors,27-3043,2
+286,Miscellaneous Media and Communication Workers,27-3090,2
+290,290 - Broadcast and Sound Engineering Technicians and Radio Operators,27-4010,3
+296,"296 - Media and Communication Equipment Workers, All Other",27-4099,3
+291,Photographers,27-4021,2
+292,"Television, Video, and Motion Picture Camera Operators and Editors",27-4030,2
+300,Chiropractors,29-1011,2
+301,Dentists,29-1020,2
+303,Dietitians and Nutritionists,29-1031,2
+304,Optometrists,29-1041,2
+305,Pharmacists,29-1051,2
+306,Physicians and Surgeons,29-1060,2
+311,Physician Assistants,29-1071,2
+312,Podiatrists,29-1081,2
+313,Registered Nurses,29-1111,2
+314,Audiologists,29-1121,2
+315,Occupational Therapists,29-1122,2
+316,Physical Therapists,29-1123,2
+320,Radiation Therapists,29-1124,2
+321,Recreational Therapists,29-1125,2
+322,Respiratory Therapists,29-1126,2
+323,Speech-Language Pathologists,29-1127,2
+324,"Therapists, All Other",29-1129,2
+325,Veterinarians,29-1131,2
+326,"Health Diagnosing and Treating Practitioners, All Other",29-1199,2
+330,Clinical Laboratory Technologists and Technicians,29-2010,3
+331,Dental Hygienists,29-2021,3
+332,Diagnostic Related Technologists and Technicians,29-2030,3
+340,Emergency Medical Technicians and Paramedics,29-2041,3
+341,Health Diagnosing and Treating Practitioner Support Technicians,29-2050,3
+350,Licensed Practical and Licensed Vocational Nurses,29-2061,3
+351,Medical Records and Health Information Technicians,29-2071,3
+352,"Opticians, Dispensing",29-2081,3
+353,Miscellaneous Health Technologists and Technicians,29-2090,3
+354,Other Healthcare Practitioners and Technical Occupations,29-9000,3
+360,"Nursing, Psychiatric, and Home Health Aides",31-1010,8
+361,Occupational Therapist Assistants and Aides,31-2010,8
+362,Physical Therapist Assistants and Aides,31-2020,8
+363,Massage Therapists,31-9011,8
+364,Dental Assistants,31-9091,8
+365,Medical Assistants and Other Healthcare Support Occupations,31-9092,8
+370,First-Line Supervisors/Managers of Correctional Officers,33-1011,4
+371,First-Line Supervisors/Managers of Police and Detectives,33-1012,4
+372,First-Line Supervisors/Managers of Fire Fighting and Prevention Workers,33-1021,4
+373,"Supervisors, Protective Service Workers, All Other",33-1099,4
+374,Fire Fighters,33-2011,4
+375,Fire Inspectors,33-2020,4
+380,"Bailiffs, Correctional Officers, and Jailers",33-3010,4
+382,Detectives and Criminal Investigators,33-3021,4
+383,383 - Fish and Game Wardens,33-3031,4
+384,384 - Parking Enforcement Workers,33-3041,4
+385,385 - Police and Sheriff's Patrol Officers,33-3051,4
+386,386 - Transit and Railroad Police,33-3052,4
+390,Animal Control Workers,33-9011,5
+391,Private Detectives and Investigators,33-9021,4
+392,Security Guards and Gaming Surveillance Officers,33-9030,4
+394,Crossing Guards,33-9091,5
+395,Lifeguards and Other Protective Service Workers,33-9092,5
+400,Chefs and Head Cooks,35-1011,8
+401,First-Line Supervisors/Managers of Food Preparation and Serving Workers,35-1012,8
+402,Cooks,35-2010,8
+403,Food Preparation Workers,35-2021,8
+404,Bartenders,35-3011,8
+405,"Combined Food Preparation and Serving Workers, Including Fast Food",35-3021,8
+406,"Counter Attendants, Cafeteria, Food Concession, and Coffee Shop",35-3022,8
+411,Waiters and Waitresses,35-3031,8
+412,"Food Servers, Nonrestaurant",35-3041,8
+413,413 - Dining Room and Cafeteria Attendants and Bartender Helpers,35-9011,8
+416,"416 - Food Preparation and Serving Related Workers, All Other",35-9099,
+414,Dishwashers,35-9021,8
+415,"Hosts and Hostesses, Restaurant, Lounge, and Coffee Shop",35-9031,8
+420,First-Line Supervisors/Managers of Housekeeping and Janitorial Workers,37-1011,8
+421,"First-Line Supervisors/Managers of Landscaping, Lawn Service, and Groundskeeping Workers",37-1012,8
+422,Janitors and Building Cleaners,37-2011,8
+423,Maids and Housekeeping Cleaners,37-2012,8
+424,Pest Control Workers,37-2021,8
+425,Grounds Maintenance Workers,37-3010,8
+430,First-Line Supervisors/Managers of Gaming Workers,39-1010,8
+432,First-Line Supervisors/Managers of Personal Service Workers,39-1021,8
+434,Animal Trainers,39-2011,2
+435,Nonfarm Animal Caretakers,39-2021,8
+440,Gaming Services Workers,39-3010,8
+441,Motion Picture Projectionists,39-3021,8
+442,"Ushers, Lobby Attendants, and Ticket Takers",39-3031,8
+443,Miscellaneous Entertainment Attendants and Related Workers,39-3090,8
+446,Funeral Service Workers,39-4000,8
+450,Barbers,39-5011,8
+451,"Hairdressers, Hairstylists, and Cosmetologists",39-5012,8
+452,Miscellaneous Personal Appearance Workers,39-5090,8
+453,"Baggage Porters, Bellhops, and Concierges",39-6010,8
+454,Tour and Travel Guides,39-6020,8
+455,Transportation Attendants,39-6030,8
+460,Child Care Workers,39-9011,8
+461,Personal and Home Care Aides,39-9021,8
+462,Recreation and Fitness Workers,39-9030,8
+464,Residential Advisors,39-9041,8
+465,"Personal Care and Service Workers, All Other",39-9099,8
+470,First-Line Supervisors/Managers of Retail Sales Workers,41-1011,1
+471,First-Line Supervisors/Managers of Non-Retail Sales Workers,41-1012,1
+472,Cashiers,41-2010,6
+474,Counter and Rental Clerks,41-2021,6
+475,Parts Salespersons,41-2022,6
+476,Retail Salespersons,41-2031,6
+480,Advertising Sales Agents,41-3011,6
+481,Insurance Sales Agents,41-3021,6
+482,"Securities, Commodities, and Financial Services Sales Agents",41-3031,6
+483,Travel Agents,41-3041,6
+484,"Sales Representatives, Services, All Other",41-3099,6
+485,"Sales Representatives, Wholesale and Manufacturing",41-4010,6
+490,"Models, Demonstrators, and Product Promoters",41-9010,6
+492,Real Estate Brokers and Sales Agents,41-9020,6
+493,Sales Engineers,41-9031,2
+494,Telemarketers,41-9041,6
+495,"Door-To-Door Sales Workers, News and Street Vendors, and Related Workers",41-9091,6
+496,"Sales and Related Workers, All Other",41-9099,6
+500,First-Line Supervisors/Managers of Office and Administrative Support Workers,43-1011,6
+501,"Switchboard Operators, Including Answering Service",43-2011,6
+502,Telephone Operators,43-2021,6
+503,"Communications Equipment Operators, All Other",43-2099,6
+510,Bill and Account Collectors,43-3011,6
+511,Billing and Posting Clerks and Machine Operators,43-3021,6
+512,"Bookkeeping, Accounting, and Auditing Clerks",43-3031,6
+513,Gaming Cage Workers,43-3041,6
+514,Payroll and Timekeeping Clerks,43-3051,6
+515,Procurement Clerks,43-3061,6
+516,Tellers,43-3071,6
+520,Brokerage Clerks,43-4011,6
+522,"Court, Municipal, and License Clerks",43-4031,6
+523,"Credit Authorizers, Checkers, and Clerks",43-4041,6
+524,Customer Service Representatives,43-4051,6
+525,"Eligibility Interviewers, Government Programs",43-4061,6
+526,File Clerks,43-4071,6
+530,"Hotel, Motel, and Resort Desk Clerks",43-4081,6
+531,"Interviewers, Except Eligibility and Loan",43-4111,6
+532,"Library Assistants, Clerical",43-4121,6
+533,Loan Interviewers and Clerks,43-4131,6
+534,New Accounts Clerks,43-4141,6
+535,Correspondence Clerks,43-4021,6
+521,Order Clerks ,43-4151,
+536,"Human Resources Assistants, Except Payroll and Timekeeping",43-4161,6
+540,Receptionists and Information Clerks,43-4171,6
+541,Reservation and Transportation Ticket Agents and Travel Clerks,43-4181,6
+542,"Information and Record Clerks, All Other",43-4199,6
+550,Cargo and Freight Agents,43-5011,6
+551,Couriers and Messengers,43-5021,6
+552,Dispatchers,43-5030,6
+553,"Meter Readers, Utilities",43-5041,6
+554,Postal Service Clerks,43-5051,6
+555,Postal Service Mail Carriers,43-5052,6
+556,"Postal Service Mail Sorters, Processors, and Processing Machine Operators",43-5053,6
+560,"Production, Planning, and Expediting Clerks",43-5061,6
+561,"Shipping, Receiving, and Traffic Clerks",43-5071,6
+562,Stock Clerks and Order Fillers,43-5081,6
+563,"Weighers, Measurers, Checkers, and Samplers, Recordkeeping",43-5111,6
+570,Secretaries and Administrative Assistants,43-6010,6
+580,Computer Operators,43-9011,6
+581,Data Entry Keyers,43-9021,6
+582,Word Processors and Typists,43-9022,6
+583,Desktop Publishers,43-9031,6
+584,Insurance Claims and Policy Processing Clerks,43-9041,6
+585,"Mail Clerks and Mail Machine Operators, Except Postal Service",43-9051,6
+586,"Office Clerks, General",43-9061,6
+590,"Office Machine Operators, Except Computer",43-9071,6
+591,Proofreaders and Copy Markers,43-9081,6
+592,Statistical Assistants,43-9111,6
+593,"Office and Administrative Support Workers, All Other",43-9199,6
+600,"First-Line Supervisors/Managers of Farming, Fishing, and Forestry Workers",45-1010,8
+601,Agricultural Inspectors,45-2011,1
+604,"Graders and Sorters, Agricultural Products",45-2041,8
+605,Miscellaneous Agricultural Workers,45-2090,8
+602,Animal Breeders,45-2021,8
+610,Fishing and Hunting Workers ,45-3011,8
+611,Hunters and Trappers,45-3021,8
+612,Forest and Conservation Workers,45-4011,8
+613,Logging Workers,45-4020,8
+620,First-Line Supervisors/Managers of Construction Trades and Extraction Workers,47-1011,7
+621,Boilermakers,47-2011,7
+622,"Brickmasons, Blockmasons, and Stonemasons",47-2020,7
+623,Carpenters,47-2031,7
+624,"Carpet, Floor, and Tile Installers and Finishers",47-2040,7
+625,"Cement Masons, Concrete Finishers, and Terrazzo Workers",47-2050,7
+626,Construction Laborers,47-2061,8
+630,"Paving, Surfacing, and Tamping Equipment Operators",47-2071,7
+631,Pile-Driver Operators,47-2072,7
+632,Operating Engineers and Other Construction Equipment Operators,47-2073,7
+633,"Drywall Installers, Ceiling Tile Installers, and Tapers",47-2080,7
+635,Electricians,47-2111,7
+636,Glaziers,47-2121,7
+640,Insulation Workers,47-2130,7
+642,"Painters, Construction and Maintenance",47-2141,7
+643,Paperhangers,47-2142,7
+644,"Pipelayers, Plumbers, Pipefitters, and Steamfitters",47-2150,7
+646,Plasterers and Stucco Masons,47-2161,7
+651,Roofers,47-2181,7
+652,Sheet Metal Workers,47-2211,7
+653,Structural Iron and Steel Workers,47-2171,7
+650,Reinforcing Iron and Rebar Workers,47-2221,7
+660,"Helpers, Construction Trades",47-3010,8
+666,Construction and Building Inspectors,47-4011,1
+670,Elevator Installers and Repairers,47-4021,7
+671,Fence Erectors,47-4031,7
+672,Hazardous Materials Removal Workers,47-4041,7
+673,Highway Maintenance Workers,47-4051,7
+674,Rail-Track Laying and Maintenance Equipment Operators,47-4061,7
+675,Septic Tank Servicers and Sewer Pipe Cleaners,47-4071,8
+676,Miscellaneous Construction and Related Workers,47-4090,7
+680,"Derrick, Rotary Drill, and Service Unit Operators, Oil, Gas, and Mining",47-5010,7
+692,"Roustabouts, Oil and Gas",47-5071,7
+682,"Earth Drillers, Except Oil and Gas",47-5021,7
+683,"Explosives Workers, Ordnance Handling Experts, and Blasters",47-5031,7
+684,Mining Machine Operators,47-5040,7
+694,Other Extraction Workers,47-5081,7
+691,"Roof Bolters, Mining",47-5051,7
+693,Helpers--Extraction Workers,47-5061,7
+700,"First-Line Supervisors/Managers of Mechanics, Installers, and Repairers",49-1011,7
+701,"Computer, Automated Teller, and Office Machine Repairers",49-2011,7
+702,Radio and Telecommunications Equipment Installers and Repairers,49-2020,7
+703,Avionics Technicians,49-2091,7
+704,"Electric Motor, Power Tool, and Related Repairers",49-2092,7
+710,"710 - Electrical and Electronics Repairers, Industrial and Utility",49-2094,7
+705,"705 - Electrical and Electronics Installers and Repairers, Transportation Equipment",49-2093,
+711,"Electronic Equipment Installers and Repairers, Motor Vehicles",49-2096,7
+712,Electronic Home Entertainment Equipment Installers and Repairers,49-2097,7
+713,Security and Fire Alarm Systems Installers,49-2098,7
+714,Aircraft Mechanics and Service Technicians,49-3011,7
+715,Automotive Body and Related Repairers,49-3021,7
+716,Automotive Glass Installers and Repairers,49-3022,7
+720,Automotive Service Technicians and Mechanics,49-3023,7
+721,Bus and Truck Mechanics and Diesel Engine Specialists,49-3031,7
+722,Heavy Vehicle and Mobile Equipment Service Technicians and Mechanics,49-3040,7
+724,Small Engine Mechanics,49-3050,7
+726,"Miscellaneous Vehicle and Mobile Equipment Mechanics, Installers, and Repairers",49-3090,7
+730,Control and Valve Installers and Repairers,49-9010,7
+731,"Heating, Air Conditioning, and Refrigeration Mechanics and Installers",49-9021,7
+732,Home Appliance Repairers,49-9031,7
+733,Industrial and Refractory Machinery Mechanics,49-9041,7
+734,"Maintenance and Repair Workers, General",49-9042,7
+735,"Maintenance Workers, Machinery",49-9043,7
+736,Millwrights,49-9044,7
+741,Electrical Power-Line Installers and Repairers,49-9051,7
+742,Telecommunications Line Installers and Repairers,49-9052,7
+743,Precision Instrument and Equipment Repairers,49-9060,7
+751,"Coin, Vending, and Amusement Machine Servicers and Repairers",49-9091,7
+754,Locksmiths and Safe Repairers,49-9094,7
+755,Manufactured Building and Mobile Home Installers,49-9095,7
+756,Riggers,49-9096,7
+761,"Helpers--Installation, Maintenance, and Repair Workers",49-9098,8
+762,"762 - Other Installation, Maintenance, and Repair Workers",49-9097,7
+752,752 - Commercial Divers,49-9092,7
+760,760 - Signal and Track Switch Repairers,49-9093,7
+770,First-Line Supervisors/Managers of Production and Operating Workers,51-1011,8
+771,"Aircraft Structure, Surfaces, Rigging, and Systems Assemblers",51-2011,7
+772,"Electrical, Electronics, and Electromechanical Assemblers",51-2020,7
+773,Engine and Other Machine Assemblers,51-2031,7
+774,Structural Metal Fabricators and Fitters,51-2041,7
+775,Miscellaneous Assemblers and Fabricators,51-2090,8
+780,Bakers,51-3011,8
+781,"Butchers and Other Meat, Poultry, and Fish Processing Workers",51-3020,8
+783,"Food and Tobacco Roasting, Baking, and Drying Machine Operators and Tenders",51-3091,8
+784,Food Batchmakers,51-3092,8
+785,Food Cooking Machine Operators and Tenders,51-3093,8
+790,Computer Control Programmers and Operators,51-4010,8
+792,"Extruding and Drawing Machine Setters, Operators, and Tenders, Metal and Plastic",51-4021,8
+793,"Forging Machine Setters, Operators, and Tenders, Metal and Plastic",51-4022,8
+794,"Rolling Machine Setters, Operators, and Tenders, Metal and Plastic",51-4023,8
+795,"Cutting, Punching, and Press Machine Setters, Operators, and Tenders, Metal and Plastic",51-4031,8
+796,"Drilling and Boring Machine Tool Setters, Operators, and Tenders, Metal and Plastic",51-4032,8
+800,"Grinding, Lapping, Polishing, and Buffing Machine Tool Setters, Operators, and Tenders, Metal and Plastic",51-4033,8
+801,"Lathe and Turning Machine Tool Setters, Operators, and Tenders, Metal and Plastic",51-4034,8
+803,Machinists,51-4041,7
+804,Metal Furnace and Kiln Operators and Tenders,51-4050,8
+806,"Model Makers and Patternmakers, Metal and Plastic",51-4060,7
+810,"Molders and Molding Machine Setters, Operators, and Tenders, Metal and Plastic",51-4070,8
+813,Tool and Die Makers,51-4111,7
+814,"Welding, Soldering, and Brazing Workers",51-4120,8
+815,"Heat Treating Equipment Setters, Operators, and Tenders, Metal and Plastic",51-4191,8
+816,"Lay-Out Workers, Metal and Plastic",51-4192,7
+820,"Plating and Coating Machine Setters, Operators, and Tenders, Metal and Plastic",51-4193,8
+821,"Tool Grinders, Filers, and Sharpeners",51-4194,8
+822,"822 - Metalworkers and Plastic Workers, All Other",51-4199,8
+802,"802 - Milling and Planing Machine Setters, Operators, and Tenders, Metal and Plastic",51-4035,8
+812,"812 - Multiple Machine Tool Setters, Operators, and Tenders, Metal and Plastic",51-4081,8
+823,Bookbinders and Bindery Workers,51-5010,7
+824,Job Printers,51-5021,8
+825,Prepress Technicians and Workers,51-5022,7
+826,Printing Machine Operators,51-5023,8
+830,Laundry and Dry-Cleaning Workers,51-6011,8
+831,"Pressers, Textile, Garment, and Related Materials",51-6021,8
+832,Sewing Machine Operators,51-6031,8
+833,Shoe and Leather Workers and Repairers,51-6041,7
+834,Shoe Machine Operators and Tenders,51-6042,8
+835,"Tailors, Dressmakers, and Sewers",51-6050,7
+836,Textile Bleaching and Dyeing Machine Operators and Tenders,51-6061,8
+840,"Textile Cutting Machine Setters, Operators, and Tenders",51-6062,8
+841,"Textile Knitting and Weaving Machine Setters, Operators, and Tenders",51-6063,8
+842,"Textile Winding, Twisting, and Drawing Out Machine Setters, Operators, and Tenders",51-6064,8
+845,Upholsterers,51-6093,7
+846,"846 - Textile, Apparel, and Furnishings Workers, All Other",51-6099,8
+843,"843 - Extruding and Forming Machine Setters, Operators, and Tenders, Synthetic and Glass Fibers",51-6091,8
+844,844 - Fabric and Apparel Patternmakers,51-6092,8
+850,Cabinetmakers and Bench Carpenters,51-7011,7
+851,Furniture Finishers,51-7021,7
+853,"Sawing Machine Setters, Operators, and Tenders, Wood",51-7041,8
+854,"Woodworking Machine Setters, Operators, and Tenders, Except Sawing",51-7042,8
+855,"855 - Woodworkers, All Other",51-7099,7
+852,"852 - Model Makers and Patternmakers, Wood",51-7030,7
+860,"Power Plant Operators, Distributors, and Dispatchers",51-8010,7
+861,Stationary Engineers and Boiler Operators,51-8021,7
+862,Water and Liquid Waste Treatment Plant and System Operators,51-8031,7
+863,Miscellaneous Plant and System Operators,51-8090,8
+864,"Chemical Processing Machine Setters, Operators, and Tenders",51-9010,8
+865,"Crushing, Grinding, Polishing, Mixing, and Blending Workers",51-9020,8
+871,Cutting Workers,51-9030,8
+872,"Extruding, Forming, Pressing, and Compacting Machine Setters, Operators, and Tenders",51-9041,8
+873,"Furnace, Kiln, Oven, Drier, and Kettle Operators and Tenders",51-9051,8
+874,"Inspectors, Testers, Sorters, Samplers, and Weighers",51-9061,8
+875,Jewelers and Precious Stone and Metal Workers,51-9071,7
+876,"Medical, Dental, and Ophthalmic Laboratory Technicians",51-9080,7
+880,Packaging and Filling Machine Operators and Tenders,51-9111,8
+881,Painting Workers,51-9120,8
+883,Photographic Process Workers and Processing Machine Operators,51-9130,8
+885,Cementing and Gluing Machine Operators and Tenders,51-9191,8
+886,"Cleaning, Washing, and Metal Pickling Equipment Operators & Tenders",51-9192,8
+891,Etchers and Engravers,51-9194,7
+892,"Molders, Shapers, and Casters, Except Metal and Plastic",51-9195,8
+893,"Paper Goods Machine Setters, Operators, and Tenders",51-9196,8
+894,Tire Builders,51-9197,8
+895,Helpers--Production Workers,51-9198,8
+896,"896 - Production Workers, All Other",51-9199,8
+884,884 - Semiconductor Processors,51-9141,8
+890,890 - Cooling and Freezing Equipment Operators and Tenders,51-9193,8
+900,"Supervisors, Transportation and Material Moving Workers",53-1000,7
+903,Aircraft Pilots and Flight Engineers,53-2010,2
+904,Air Traffic Controllers and Airfield Operations Specialists,53-2020,3
+912,Bus Drivers,53-3020,8
+913,Driver/Sales Workers and Truck Drivers,53-3030,8
+914,Taxi Drivers and Chauffeurs,53-3041,8
+915,"915 - Motor Vehicle Operators, All Other",53-3099,8
+911,"911 - Ambulance Drivers and Attendants, Except Emergency Medical Technicians",53-3011,8
+920,Locomotive Engineers and Operators,53-4010,8
+923,"Railroad Brake, Signal, and Switch Operators",53-4021,8
+924,Railroad Conductors and Yardmasters,53-4031,8
+926,"Subway, Streetcar, and Other Rail Transportation Workers",53-4041,8
+926,"Subway, Streetcar, and Other Rail Transportation Workers",53-4099,8
+930,Sailors and Marine Oilers,53-5011,8
+931,Ship and Boat Captains and Operators,53-5020,1
+933,Ship Engineers,53-5031,8
+935,Parking Lot Attendants,53-6021,8
+936,Service Station Attendants,53-6031,8
+941,Transportation Inspectors,53-6051,8
+942,942 - Other Transportation Workers,53-6041,8
+934,934 - Bridge and Lock Tenders,53-6011,8
+951,Crane and Tower Operators,53-7021,7
+952,"Dredge, Excavating, and Loading Machine Operators",53-7030,7
+956,Hoist and Winch Operators,53-7041,8
+960,Industrial Truck and Tractor Operators,53-7051,8
+961,Cleaners of Vehicles and Equipment,53-7061,8
+962,"Laborers and Freight, Stock, and Material Movers, Hand",53-7062,8
+963,Machine Feeders and Offbearers,53-7063,8
+964,"Packers and Packagers, Hand",53-7064,8
+965,Pumping Station Operators,53-7070,8
+972,Refuse and Recyclable Material Collectors,53-7081,8
+975,"975 - Material Moving Workers, All Other",53-7199,8
+950,950 - Conveyor Operators and Tenders,53-7011,8
+973,973 - Shuttle Car Operators,53-7111,8
+974,"974 - Tank Car, Truck, and Ship Loaders",53-7121,8
