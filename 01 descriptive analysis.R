@@ -25,12 +25,12 @@ table(demo_cc$education_def)
 names(demo_cc)
 summary(demo_cc$percent_of_workers_exposed_to_hazardous_contaminants)
 
-ggplot(demo_cc, aes(education_def, percent_of_workers_exposed_to_hazardous_contaminants)) +
-  geom_point(aes(color = race, alpha = 0.5)) +
-  xlab("Nam-Powers Socioeconomic Status Score") +
-  ylab("Count") +
-  #xlim(0, 99) +
-  theme_bw()
+#ggplot(demo_cc, aes(education_def, percent_of_workers_exposed_to_hazardous_contaminants)) +
+#  geom_point(aes(color = race, alpha = 0.5)) +
+#  xlab("Nam-Powers Socioeconomic Status Score") +
+#  ylab("Count") +
+#  #xlim(0, 99) +
+#  theme_bw()
 
 table(demo_cc$gender, demo_cc$race)
 

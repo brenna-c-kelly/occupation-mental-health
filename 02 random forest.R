@@ -8,15 +8,16 @@ library(pdp) #
 library(tree)
 library(mlr3) #
 library(stats)
+library(rpart)
 library(dplyr)
 library(purrr)
-library(DALEX)
+#library(DALEX)
 library(scales)
 library(ranger)
 library(cluster)
-library(DALEXtra)
+#library(DALEXtra)
 library(tidyverse)
-library(rpart.plot)
+#library(rpart.plot)
 library(mlr3tuning)
 library(mlr3learners)
 library(RColorBrewer)
@@ -31,12 +32,13 @@ set.seed(5678)
 demo_cc$bin <- as.factor(demo_cc$bin)
 # very small > first pass
 
+demo_cc$race[demo_cc$race == "black, nonhispanic"] <- "black"
 demo_cc <- demo_cc %>%
   mutate_if(is.character, as.factor)
 
 not_suicide <- demo_cc %>%
   filter(bin == "not suicide")
-remove_n <- nrow(not_suicide)*0.95
+remove_n <- nrow(not_suicide)*0.93
 not_suicide <- not_suicide[-sample(1:nrow(not_suicide), remove_n), ]
 
 suicide <- demo_cc %>%
@@ -55,24 +57,28 @@ task_pe <- TaskClassif$new(id = "omeid", backend = all.df,
 #                                     c("X", "Y")) #make any exclusiong
 
 measure = msr("classif.auc") # performance measure
-lrn_ct = mlr3::lrn("classif.rpart", predict_type = "prob") # learner
+lrn_ct = lrn("classif.rpart", predict_type = "prob") # learner
 # resampling strategy
 resamp_hout = rsmp("cv", folds = 5)
 resamp_hout$instantiate(task_pe)
 # run resampler, examine performance
-rr = mlr3::resample(task_pe, lrn_ct, resamp_hout, store_models = TRUE)
+rr = resample(task_pe, lrn_ct, resamp_hout, store_models = TRUE)
 rr$score(measure)
 rr$aggregate(measure)
 
-vip::vip(lrn_ct$model, num_features = 26, scale = TRUE)
+sapply(rr$learners, function(x) x$param_set$values)
+vi(rr$learners[[1]]$model$learner$model)
+rr$learner
 
 # quick surrogate with ranger
 all.df <- all.df %>%
-  drop_na() %>%
-  droplevels()
+  drop_na()# %>%
+  #droplevels()
 
 rf <- ranger(bin ~ ., data = all.df)
-all.df$yhat <- predict(rf, data = all.df)$predictions
+#all.df$yhat <- predict(rf, data = all.df)$predictions
+
+rf$
 
 surrogate <- rpart(yhat ~ ., all.df)
 plot(surrogate$variable.importance)
