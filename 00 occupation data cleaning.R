@@ -3,7 +3,7 @@ library(dplyr)
 library(janitor)
 library(tidyverse)
 
-ors <- read.csv("/Users/brenna/Documents/Work/Bakian/occ ind/ORS dataset.csv")
+ors <- read.csv("misc/ORS dataset.csv")
 
 names(ors) <- tolower(names(ors))
 
