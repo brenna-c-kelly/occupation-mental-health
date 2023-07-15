@@ -152,15 +152,10 @@ demo_cc$work_loc_code <- case_when(demo_cc$work_loc == "in a vehicle" ~ 5,
                                    demo_cc$work_loc == "outdoors" ~ 3,
                                    demo_cc$work_loc == "school" ~ 4)
 
-
 demo_fred <- demo_cc[ , c("proxy_id", "employmentstatus", "age", "sex",
                           "work_loc", "work_loc_code", "smoke_exposure")]
-head(demo_cc)
-id_links <- demo_cc[, c("proxy_id", "redcapid", "omeid")]
-write.csv(id_links, "id_links.csv", row.names = FALSE)
-
 write.csv(demo_fred, "demo_fred.csv", row.names = FALSE)
 
-
-demo_cc[which(is.na(demo_cc$omeid)), ]
+id_links <- demo_cc[, c("proxy_id", "redcapid", "omeid")]
+write.csv(id_links, "id_links.csv", row.names = FALSE)
 
