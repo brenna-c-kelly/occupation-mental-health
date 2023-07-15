@@ -151,7 +151,6 @@ demo_cc$work_loc_code <- case_when(demo_cc$work_loc == "in a vehicle" ~ 5,
                                    demo_cc$work_loc == "indoors away from residence" ~ 1,
                                    demo_cc$work_loc == "outdoors" ~ 3,
                                    demo_cc$work_loc == "school" ~ 4)
-demo_cc$proxy_id <- 1:nrow(demo_cc)
 
 
 demo_fred <- demo_cc[ , c("proxy_id", "employmentstatus", "age", "sex",
